@@ -3,7 +3,7 @@
 
 ## postgres doesn't do UTF8
 
-[[https://wiki.postgresql.org/wiki/Adventures_in_PostgreSQL%2C_Episode_1][Adventures in PostgreSQL, Episode 1 - PostgreSQL wiki]]
+[Adventures in PostgreSQL, Episode 1 - PostgreSQL wiki](://wiki.postgresql.org/wiki/Adventures_in_PostgreSQL%2C_Episode_1)
 describes a solution to the problem Cloud9 presents us with: a template1 definition 
 with SQL_ASCII set instead of UNICODE.
 
